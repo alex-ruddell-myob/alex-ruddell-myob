@@ -1,4 +1,4 @@
-### 🌱  Hi there 🌈
+### 🌱   Hi there 🌈
 
 My name is Alex Ruddell - welcome to my GitHub! Here you can see heaps of fun things that I've been doing :)
 
