@@ -1,6 +1,6 @@
 ### Hi there 🌈
 
-My name is Alex Ruddell - welcome to my GitHub! Here you can see heaps of fun things that I've been doing :)
+My name is Alex Ruddell - welcome to my work GitHub for my MYOB Summer Internship! Here you can see heaps of fun things that I've been doing :)
 
 - 🌱 I’m currently working as an intern at MYOB!
 - 😄 Pronouns: He/Him
